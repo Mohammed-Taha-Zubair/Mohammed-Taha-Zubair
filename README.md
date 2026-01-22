@@ -22,20 +22,14 @@
 
 ---
 
-## 🧰 Tech Stack
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+JS • TS • React • Docker • AI • Deployment
+
 
 </div>
 
-* 🟧 HTML5 & Semantic Markup
-* 🎨 CSS3 & Responsive Design
-* 🟨 JavaScript (ES6+)
-* ⚛️ React (Hooks, Routing, API Handling)
-* 🌐 REST APIs
-* 🔧 Git & GitHub
 
 ---
 
