@@ -6,12 +6,10 @@
 
 # 👋 Hi, I’m Zubair
 
-### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer
-
-### <img src="https://skillicons.dev/icons?i=js,ts,react,docker,python,github" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontColor=ffffff" />
 
+### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer
 </div>
 
 ---
