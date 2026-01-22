@@ -1,6 +1,3 @@
-
-<h2 align="left">👋 Hi, I’m Zubair ...</h2>
-###
 <!-- <p align="left"> -->
 <div align="center">
 
@@ -23,8 +20,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
-JS • TS • React • Docker • AI • Deployment
-
 
 </div>
 
