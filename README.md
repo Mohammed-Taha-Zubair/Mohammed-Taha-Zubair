@@ -1,22 +1,22 @@
 <!-- <p align="left"> -->
 <div align="center">
 
-# 👋 Hi, I’m Zubair
+ 👋 Hi, I’m Zubair
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontColor=ffffff" />
 
-### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer
+ 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer
 </div>
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 🎓 I am a B.Tech graduate with a strong foundation in full-stack web development, trained through NXTWAVE’s industry-focused full-stack program. My learning journey has been deeply hands-on, centered around building real-world, scalable web applications using modern frontend technologies.
 
 
 ---
-## 🧰 Tech Stack
+ 🧰 Tech Stack
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚧 Currently Learning
+ 🚧 Currently Learning
 
 * 🗄 Backend Development & Databases
 * 🧠 Data Structures & Problem Solving
@@ -36,7 +36,7 @@
 
 
 
-## 🌱 Personal Growth
+ 🌱 Personal Growth
 
 * 🤸 Enjoy calisthenics & fitness
 * 📈 Actively improving focus, discipline, and consistency
